@@ -1,0 +1,16 @@
+C:\Users\withan\source\repos\calculator\bin\Debug\net9.0-windows\calculator.exe
+C:\Users\withan\source\repos\calculator\bin\Debug\net9.0-windows\calculator.deps.json
+C:\Users\withan\source\repos\calculator\bin\Debug\net9.0-windows\calculator.runtimeconfig.json
+C:\Users\withan\source\repos\calculator\bin\Debug\net9.0-windows\calculator.dll
+C:\Users\withan\source\repos\calculator\bin\Debug\net9.0-windows\calculator.pdb
+C:\Users\withan\source\repos\calculator\obj\Debug\net9.0-windows\calculator.Calculator.resources
+C:\Users\withan\source\repos\calculator\obj\Debug\net9.0-windows\calculator.csproj.GenerateResource.cache
+C:\Users\withan\source\repos\calculator\obj\Debug\net9.0-windows\calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\withan\source\repos\calculator\obj\Debug\net9.0-windows\calculator.AssemblyInfoInputs.cache
+C:\Users\withan\source\repos\calculator\obj\Debug\net9.0-windows\calculator.AssemblyInfo.cs
+C:\Users\withan\source\repos\calculator\obj\Debug\net9.0-windows\calculator.csproj.CoreCompileInputs.cache
+C:\Users\withan\source\repos\calculator\obj\Debug\net9.0-windows\calculator.dll
+C:\Users\withan\source\repos\calculator\obj\Debug\net9.0-windows\refint\calculator.dll
+C:\Users\withan\source\repos\calculator\obj\Debug\net9.0-windows\calculator.pdb
+C:\Users\withan\source\repos\calculator\obj\Debug\net9.0-windows\calculator.genruntimeconfig.cache
+C:\Users\withan\source\repos\calculator\obj\Debug\net9.0-windows\ref\calculator.dll
